@@ -1,0 +1,11 @@
+{
+  "name": "funniest-ooo-20261124",
+  "version": "1.0.0",
+  "description": "The Funniest Out-of-Office — one-line entry for make.fun",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "license": "MIT"
+}
