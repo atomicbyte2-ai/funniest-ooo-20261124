@@ -15,3 +15,9 @@ A one-line out-of-office auto-reply (140 characters or fewer), written and valid
 ```sh
 node main.ts
 ```
+
+## Why it works
+
+- Opens like a real auto-reply, so the reader's guard is down before the absurd premise lands.
+- Escalates in a rule of three — deleting emails, replying-all, then firing Gary — from petty to social disaster to unearned power.
+- Ends on "Gary": a specific, ordinary name is the funniest final word, and every office has one.
